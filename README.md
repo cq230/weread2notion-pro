@@ -9,11 +9,11 @@
 
 ## 使用
 
-> [!IMPORTANT]  
-> 关注公众号获取教程
+weread2notion使用文档：https://malinkang.com/posts/weread2notion/
 
-![扫码_搜索联合传播样式-标准色版](https://github.com/malinkang/weread2notion-pro/assets/3365208/32fbce17-9a03-4e36-9a39-6e6a34aa3aef)
+热力图使用文档：https://malinkang.com/posts/github_heatmap/
 
+weread2notion-pro使用文档：https://malinkang.com/posts/weread2notion-pro/
 
 
 ## 群
@@ -22,6 +22,10 @@
 
 ![WechatIMG3](https://github.com/malinkang/weread2notion-pro/assets/3365208/86414552-a638-4fa3-893d-d349171ca1bb)
 
+## 公众号
+
+欢迎关注我的公众号~
+![扫码_搜索联合传播样式-标准色版](https://github.com/malinkang/weread2notion-pro/assets/3365208/32fbce17-9a03-4e36-9a39-6e6a34aa3aef)
 
 ## 捐赠
 
